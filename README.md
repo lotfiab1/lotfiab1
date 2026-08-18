@@ -1,4 +1,4 @@
-# Lotfi Ait Baaya — Data Analyst & AI Developer & Web Developer
+## Lotfi Ait Baaya — Data Analyst & AI Developer & Web Developer
 
 ## About
 
