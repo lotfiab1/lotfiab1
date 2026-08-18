@@ -39,8 +39,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contact](https://github.com/lotfiab1/Portfolio/blob/main/README.md#contacts)
 
 ## Certification
-### [Data Science Essentials With Python](https://www.credly.com/badges/16a7c9a8-af0f-4a0b-958e-86f9d5f2f3b3) (Aug 2026) **Cisco**
-### [Python Essentials 2](https://www.credly.com/badges/7fa90333-37bf-42d4-b3cb-9be2bc569e9d/)
+- [Data Science Essentials With Python](https://www.credly.com/badges/16a7c9a8-af0f-4a0b-958e-86f9d5f2f3b3) (Aug 2026) **Cisco**
+- [Python Essentials 2](https://www.credly.com/badges/7fa90333-37bf-42d4-b3cb-9be2bc569e9d/)
 
 
 ## Education
