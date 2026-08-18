@@ -24,6 +24,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/lotfiab1/Portfolio/blob/main/README.md#portfolio-projects)
   - Data Analyst Projects
     - [All My Data Analyst Projects](https://github.com/lotfiab1/Data-Analyst-Projects)
+  - Web Developement
+    - [VOID Challenge — Responsive UI Implementation](https://github.com/lotfiab1/VOID-Challenge)
+    - [Responsive protfolio](https://github.com/lotfiab1/lotfi-protfolio) 
   - Python
     - [Classification of Breast Cancer Diagnosis (Study Project)](https://github.com/lotfiab1/Classification-of-Breast-Cancer-Diagnosis)
   - C
@@ -34,52 +37,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Education](https://github.com/lotfiab1/Portfolio/blob/main/README.md#education)  
 - [Contact](https://github.com/lotfiab1/Portfolio/blob/main/README.md#contacts)
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-
-### Data Analyst Projects
-**Code:** [Data Analyst projects](https://github.com/lotfiab1/Data-Analyst-Projects)
-
-**Description:** This repository contains over 16 of my Data Analyst projects, where I apply Python and data analysis techniques to explore datasets, clean and transform data, perform exploratory data analysis (EDA), create visualizations, identify trends and patterns, and extract meaningful insights from data.
-
-**Skills:** Data cleaning, data visualization, exploratory data analysis (EDA), supervised machine learning, classification algorithms, model evaluation, and model persistence.
-
-**Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
-
-**Goal:** Analyze and transform datasets to uncover meaningful patterns and insights through data cleaning, exploratory data analysis, visualization, and machine learning, while developing and evaluating classification models for predictive analysis.
-
-### Classification of Breast Cancer Diagnosis
-**Code:** [`Classification.ipynb`](https://github.com/lotfiab1/Classification-of-Breast-Cancer-Diagnosis/blob/master/Classification.ipynb)
-
-**Goal:** To build a machine learning classification model capable of predicting whether a breast tumor is benign or malignant based on extracted medical features.
-
-
-**Description:** This project focuses on analyzing and classifying breast cancer data using machine learning techniques. The dataset contains numerical features describing characteristics of cell nuclei, which are used to identify patterns between benign and malignant tumors.
-
-
-**Skills:** Data preprocessing, feature scaling, exploratory data analysis (EDA), supervised machine learning, classification algorithms, model evaluation, model persistence.
-
-**Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib.
-
-**Results:** Several classification models were trained and evaluated, including Logistic Regression, K-Nearest Neighbors (KNN), and Decision Tree. The best-performing models were saved using Joblib for future predictions. The preprocessing scaler was also saved to ensure that new input data is transformed consistently before prediction.
-
-
-### Minist Digits Recognizer in C
-
-**Goal:** To train a machine learning model capable of recognizing and predicting handwritten digits from input images.
-
-**Code:** [Minist Digits Recognizer in C](https://github.com/lotfiab1/Minist-Digits-Recognizer-in-C)
-
-**Description:** The MNIST dataset contains 28x28 grayscale images of handwritten digits (0-9). Each image is represented as a matrix of pixel values. The project includes the following steps: data loading, Data preprocessing and normalization, Model training, Model evaluation and testing.
-
-**Skills:** Machine learning, data preprocessing, memory management, time complexity analysis, linear algebra.
-
-**Technology:** C, OpenBLAS (CBLAS).
-
-**Results:** Developed a trained neural network model capable of accurately predicting handwritten digits from unseen images.
-
-
-
 
 
 ## Education
