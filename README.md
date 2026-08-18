@@ -22,6 +22,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/lotfiab1/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/lotfiab1/Portfolio/blob/main/README.md#portfolio-projects)
+  - Data Analyst Projects
+    - [All My Data Analyst Projects](https://github.com/lotfiab1/Data-Analyst-Projects)
   - Python
     - [Classification of Breast Cancer Diagnosis (Study Project)](https://github.com/lotfiab1/Classification-of-Breast-Cancer-Diagnosis)
   - C
@@ -34,6 +36,17 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contact](https://github.com/lotfiab1/Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Data Analyst Projects
+**Code:** [Data Analyst projects](https://github.com/lotfiab1/Data-Analyst-Projects)
+
+**Description:** This repository contains over 16 of my Data Analyst projects, where I apply Python and data analysis techniques to explore datasets, clean and transform data, perform exploratory data analysis (EDA), create visualizations, identify trends and patterns, and extract meaningful insights from data.
+
+**Skills:** Data cleaning, data visualization, exploratory data analysis (EDA), supervised machine learning, classification algorithms, model evaluation, and model persistence.
+
+**Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+**Goal:** Analyze and transform datasets to uncover meaningful patterns and insights through data cleaning, exploratory data analysis, visualization, and machine learning, while developing and evaluating classification models for predictive analysis.
 
 ### Classification of Breast Cancer Diagnosis
 **Code:** [`Classification.ipynb`](https://github.com/lotfiab1/Classification-of-Breast-Cancer-Diagnosis/blob/master/Classification.ipynb)
