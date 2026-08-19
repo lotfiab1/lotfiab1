@@ -41,7 +41,7 @@ I'm currently seeking opportunities as a **Data Analyst, AI/ML Engineer, or Pyth
 ### Data Analysis
 
 - [Data Analyst Projects](https://github.com/lotfiab1/Data-Analyst-Projects)  
-  Collection of **16+ data analysis projects** covering data cleaning, visualization, EDA, machine learning, classification, and model evaluation.
+  Collection of **+16 data analysis projects** covering data cleaning, visualization, EDA, classification, and model evaluation.
 
 ### Web Development
 
