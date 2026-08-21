@@ -52,6 +52,7 @@ I'm currently seeking opportunities as a **Data Analyst, AI/ML Engineer, or Pyth
 
 - [Classification of Breast Cancer Diagnosis](https://github.com/lotfiab1/Classification-of-Breast-Cancer-Diagnosis)
 - [MNIST Digits Recognizer in C](https://github.com/lotfiab1/Minist-Digits-Recognizer-in-C)
+- [Hand Gesture Classifier Mouse Control](https://github.com/lotfiab1/Hand-Gesture-Classifier-Mouse-Control)
 
 ---
 
