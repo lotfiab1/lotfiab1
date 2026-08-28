@@ -10,7 +10,7 @@ I enjoy turning data into meaningful insights, building machine learning models,
 
 I'm currently seeking opportunities as a **Data Analyst, AI/ML Engineer, or Python Developer**.
 
-**CV:** [View my CV](./cv.pdf)
+**CV:** [View my Resume](./Lotfi Ait Baaya — Resume.pdf)
 
 ---
 
